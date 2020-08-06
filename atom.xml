@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zx.xylj.tk</id>
+    <title>社团墙</title>
+    <updated>2020-08-06T14:47:53.446Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zx.xylj.tk"/>
+    <link rel="self" href="https://zx.xylj.tk/atom.xml"/>
+    <subtitle>2020年光明中学高中部社团招新页面&lt;br&gt;
+网页由&lt;a href=&quot;https://zx.xylj.tk/post/VZuPoEupr/&quot; target=&quot;_blank&quot;&gt;PC卡基社&lt;/a&gt;社长创建维护&lt;br&gt;
+戳这里进入&lt;a href=&quot;https://xsh.xylj.tk&quot; target=&quot;_blank&quot;&gt;学生会&lt;/a&gt;网站</subtitle>
+    <logo>https://zx.xylj.tk/images/avatar.png</logo>
+    <icon>https://zx.xylj.tk/favicon.ico</icon>
+    <rights>All rights reserved 2020, 社团墙</rights>
+    <entry>
+        <title type="html"><![CDATA[音乐社]]></title>
+        <id>https://zx.xylj.tk/post/7pa1J_knd/</id>
+        <link href="https://zx.xylj.tk/post/7pa1J_knd/">
+        </link>
+        <updated>2020-08-06T13:52:33.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[极摄影]]></title>
+        <id>https://zx.xylj.tk/post/9DyJw-t5c/</id>
+        <link href="https://zx.xylj.tk/post/9DyJw-t5c/">
+        </link>
+        <updated>2020-08-04T10:31:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学生会]]></title>
+        <id>https://zx.xylj.tk/post/CfjiUzku0/</id>
+        <link href="https://zx.xylj.tk/post/CfjiUzku0/">
+        </link>
+        <updated>2020-08-03T15:00:17.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[模联]]></title>
+        <id>https://zx.xylj.tk/post/hSdxCUuLU/</id>
+        <link href="https://zx.xylj.tk/post/hSdxCUuLU/">
+        </link>
+        <updated>2020-08-03T14:09:09.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滑板社]]></title>
+        <id>https://zx.xylj.tk/post/zkxjfK-bS/</id>
+        <link href="https://zx.xylj.tk/post/zkxjfK-bS/">
+        </link>
+        <updated>2020-08-03T12:47:57.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吉他社]]></title>
+        <id>https://zx.xylj.tk/post/IuvhVqzqC/</id>
+        <link href="https://zx.xylj.tk/post/IuvhVqzqC/">
+        </link>
+        <updated>2020-08-03T12:40:59.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新羽社]]></title>
+        <id>https://zx.xylj.tk/post/i5fW-Rz3g/</id>
+        <link href="https://zx.xylj.tk/post/i5fW-Rz3g/">
+        </link>
+        <updated>2020-08-03T12:40:43.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[航模]]></title>
+        <id>https://zx.xylj.tk/post/u6NOECRko/</id>
+        <link href="https://zx.xylj.tk/post/u6NOECRko/">
+        </link>
+        <updated>2020-08-03T11:24:25.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D-fashion]]></title>
+        <id>https://zx.xylj.tk/post/d_ogb2j82/</id>
+        <link href="https://zx.xylj.tk/post/d_ogb2j82/">
+        </link>
+        <updated>2020-08-03T11:21:20.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[动漫社]]></title>
+        <id>https://zx.xylj.tk/post/jVlyn3GcU/</id>
+        <link href="https://zx.xylj.tk/post/jVlyn3GcU/">
+        </link>
+        <updated>2020-08-03T11:05:40.000Z</updated>
+    </entry>
+</feed>
