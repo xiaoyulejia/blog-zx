@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zx.xylj.tk</id>
     <title>社团墙</title>
-    <updated>2020-08-06T15:19:25.279Z</updated>
+    <updated>2020-08-06T15:23:24.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zx.xylj.tk"/>
     <link rel="self" href="https://zx.xylj.tk/atom.xml"/>
@@ -13,7 +13,7 @@
 &lt;script&gt;
     L2Dwidget.init({
         &quot;model&quot;: {
-            jsonPath: &quot;https://live2dw.vercel.app/22/assets/22.model.json&quot;,
+            jsonPath: &quot;&lt;%= themeConfig.domain %&gt;/media/live2dw/assets/22.model.json&quot;,
             &quot;scale&quot;: 1
         },
         &quot;display&quot;: {
