@@ -497,8 +497,8 @@ img.user-avatar:hover {
   transition-duration: 59s;
   transition-timing-function: cubic-bezier(0.34, 0, 0.84, 1);
 }
-/*div.main-content{
-  background-image: url('https://s1.ax1x.com/2020/07/28/aVAHIJ.png');
+/*div.main{
+  background-image:url('http://p6.qhimg.com/bdr/__100/t01a96b5f80b894526f.jpg');
 }*/
 img.friend-avatar:hover {
   transform: rotate(666turn);
@@ -514,6 +514,15 @@ img.vavatar.ls-is-cached.lazyloaded:hover {
   transition-duration: 59s;
   transition-timing-function: cubic-bezier(0.34, 0, 0.84, 1);
 }
+/*黑白网页效果，取消注释启用
+html.gray { 
+  -webkit-filter: grayscale(100%); 
+  -moz-filter: grayscale(100%); 
+  -ms-filter: grayscale(100%); 
+  -o-filter: grayscale(100%); 
+  filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);  
+  _filter:none; 
+} */
 .navbar {
   padding: 38px 96px !important;
 }
