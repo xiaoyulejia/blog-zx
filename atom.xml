@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zx.xylj.tk</id>
     <title>社团墙</title>
-    <updated>2020-08-08T12:51:53.782Z</updated>
+    <updated>2020-08-08T13:25:36.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zx.xylj.tk"/>
     <link rel="self" href="https://zx.xylj.tk/atom.xml"/>
@@ -12,6 +12,34 @@
     <logo>https://zx.xylj.tk/images/avatar.png</logo>
     <icon>https://zx.xylj.tk/favicon.ico</icon>
     <rights>All rights reserved 2020, 社团墙</rights>
+    <entry>
+        <title type="html"><![CDATA[戏阁社]]></title>
+        <id>https://zx.xylj.tk/post/ONW7OC5Hg/</id>
+        <link href="https://zx.xylj.tk/post/ONW7OC5Hg/">
+        </link>
+        <updated>2020-08-08T13:02:11.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文学社]]></title>
+        <id>https://zx.xylj.tk/post/Zbfa33cJs/</id>
+        <link href="https://zx.xylj.tk/post/Zbfa33cJs/">
+        </link>
+        <updated>2020-08-08T12:55:59.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[演讲与口才社]]></title>
+        <id>https://zx.xylj.tk/post/4N-Iy-GV4/</id>
+        <link href="https://zx.xylj.tk/post/4N-Iy-GV4/">
+        </link>
+        <updated>2020-08-08T12:54:18.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跆拳道]]></title>
+        <id>https://zx.xylj.tk/post/TOeY9U8_D/</id>
+        <link href="https://zx.xylj.tk/post/TOeY9U8_D/">
+        </link>
+        <updated>2020-08-08T12:52:32.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[主席团]]></title>
         <id>https://zx.xylj.tk/post/CZ8HXoKVO/</id>
@@ -53,33 +81,5 @@
         <link href="https://zx.xylj.tk/post/hSdxCUuLU/">
         </link>
         <updated>2020-08-03T14:09:09.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[滑板社]]></title>
-        <id>https://zx.xylj.tk/post/zkxjfK-bS/</id>
-        <link href="https://zx.xylj.tk/post/zkxjfK-bS/">
-        </link>
-        <updated>2020-08-03T12:47:57.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吉他社]]></title>
-        <id>https://zx.xylj.tk/post/IuvhVqzqC/</id>
-        <link href="https://zx.xylj.tk/post/IuvhVqzqC/">
-        </link>
-        <updated>2020-08-03T12:40:59.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新羽社]]></title>
-        <id>https://zx.xylj.tk/post/i5fW-Rz3g/</id>
-        <link href="https://zx.xylj.tk/post/i5fW-Rz3g/">
-        </link>
-        <updated>2020-08-03T12:40:43.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[航模]]></title>
-        <id>https://zx.xylj.tk/post/u6NOECRko/</id>
-        <link href="https://zx.xylj.tk/post/u6NOECRko/">
-        </link>
-        <updated>2020-08-03T11:24:25.000Z</updated>
     </entry>
 </feed>
