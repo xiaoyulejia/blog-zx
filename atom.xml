@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zx.xylj.tk</id>
     <title>社团墙</title>
-    <updated>2020-08-09T13:08:00.924Z</updated>
+    <updated>2020-08-09T13:28:19.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zx.xylj.tk"/>
     <link rel="self" href="https://zx.xylj.tk/atom.xml"/>
@@ -13,73 +13,73 @@
     <icon>https://zx.xylj.tk/favicon.ico</icon>
     <rights>All rights reserved 2020, 社团墙</rights>
     <entry>
-        <title type="html"><![CDATA[前言]]></title>
+        <title type="html"><![CDATA[前言(新同学必看)]]></title>
         <id>https://zx.xylj.tk/post/d82ZS9xqx/</id>
         <link href="https://zx.xylj.tk/post/d82ZS9xqx/">
         </link>
         <updated>2020-08-09T13:05:19.000Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[D-fashion]]></title>
+        <id>https://zx.xylj.tk/post/D-fashion/</id>
+        <link href="https://zx.xylj.tk/post/D-fashion/">
+        </link>
+        <updated>2020-08-09T11:21:20.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[G.M.D.O.U舞社]]></title>
-        <id>https://zx.xylj.tk/post/BbVVnmOmb/</id>
-        <link href="https://zx.xylj.tk/post/BbVVnmOmb/">
+        <id>https://zx.xylj.tk/post/G.M.D.O.U/</id>
+        <link href="https://zx.xylj.tk/post/G.M.D.O.U/">
         </link>
-        <updated>2020-08-09T12:59:24.000Z</updated>
+        <updated>2020-08-09T05:59:24.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[詠春社]]></title>
-        <id>https://zx.xylj.tk/post/IxZAsod9S/</id>
-        <link href="https://zx.xylj.tk/post/IxZAsod9S/">
+        <title type="html"><![CDATA[PC卡基社]]></title>
+        <id>https://zx.xylj.tk/post/PCkaji/</id>
+        <link href="https://zx.xylj.tk/post/PCkaji/">
         </link>
-        <updated>2020-08-09T12:31:50.000Z</updated>
+        <updated>2020-08-09T03:50:31.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[戏阁社]]></title>
-        <id>https://zx.xylj.tk/post/ONW7OC5Hg/</id>
-        <link href="https://zx.xylj.tk/post/ONW7OC5Hg/">
+        <title type="html"><![CDATA[动漫社]]></title>
+        <id>https://zx.xylj.tk/post/dongman/</id>
+        <link href="https://zx.xylj.tk/post/dongman/">
         </link>
-        <updated>2020-08-08T13:02:11.000Z</updated>
+        <updated>2020-08-09T03:05:40.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[文学社]]></title>
-        <id>https://zx.xylj.tk/post/Zbfa33cJs/</id>
-        <link href="https://zx.xylj.tk/post/Zbfa33cJs/">
+        <title type="html"><![CDATA[航模]]></title>
+        <id>https://zx.xylj.tk/post/hangmo/</id>
+        <link href="https://zx.xylj.tk/post/hangmo/">
         </link>
-        <updated>2020-08-08T12:55:59.000Z</updated>
+        <updated>2020-08-09T03:04:25.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[演讲与口才社]]></title>
-        <id>https://zx.xylj.tk/post/4N-Iy-GV4/</id>
-        <link href="https://zx.xylj.tk/post/4N-Iy-GV4/">
+        <title type="html"><![CDATA[滑板社]]></title>
+        <id>https://zx.xylj.tk/post/huaban/</id>
+        <link href="https://zx.xylj.tk/post/huaban/">
         </link>
-        <updated>2020-08-08T12:54:18.000Z</updated>
+        <updated>2020-08-09T03:03:57.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[跆拳道]]></title>
-        <id>https://zx.xylj.tk/post/TOeY9U8_D/</id>
-        <link href="https://zx.xylj.tk/post/TOeY9U8_D/">
+        <title type="html"><![CDATA[吉他社]]></title>
+        <id>https://zx.xylj.tk/post/GMjita/</id>
+        <link href="https://zx.xylj.tk/post/GMjita/">
         </link>
-        <updated>2020-08-08T12:52:32.000Z</updated>
+        <updated>2020-08-09T03:01:59.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[主席团]]></title>
-        <id>https://zx.xylj.tk/post/CZ8HXoKVO/</id>
-        <link href="https://zx.xylj.tk/post/CZ8HXoKVO/">
+        <title type="html"><![CDATA[极摄影]]></title>
+        <id>https://zx.xylj.tk/post/ji-sheying/</id>
+        <link href="https://zx.xylj.tk/post/ji-sheying/">
         </link>
-        <updated>2020-08-07T11:27:41.000Z</updated>
+        <updated>2020-08-09T03:00:00.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[棋社]]></title>
-        <id>https://zx.xylj.tk/post/KTrzXcdt_/</id>
-        <link href="https://zx.xylj.tk/post/KTrzXcdt_/">
+        <title type="html"><![CDATA[模联]]></title>
+        <id>https://zx.xylj.tk/post/United-Nations/</id>
+        <link href="https://zx.xylj.tk/post/United-Nations/">
         </link>
-        <updated>2020-08-07T10:28:39.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音乐社]]></title>
-        <id>https://zx.xylj.tk/post/7pa1J_knd/</id>
-        <link href="https://zx.xylj.tk/post/7pa1J_knd/">
-        </link>
-        <updated>2020-08-06T13:52:33.000Z</updated>
+        <updated>2020-08-09T02:59:09.000Z</updated>
     </entry>
 </feed>
