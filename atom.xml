@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zx.xylj.tk</id>
     <title>社团墙</title>
-    <updated>2020-08-09T12:37:17.896Z</updated>
+    <updated>2020-08-09T13:08:00.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zx.xylj.tk"/>
     <link rel="self" href="https://zx.xylj.tk/atom.xml"/>
@@ -12,6 +12,20 @@
     <logo>https://zx.xylj.tk/images/avatar.png</logo>
     <icon>https://zx.xylj.tk/favicon.ico</icon>
     <rights>All rights reserved 2020, 社团墙</rights>
+    <entry>
+        <title type="html"><![CDATA[前言]]></title>
+        <id>https://zx.xylj.tk/post/d82ZS9xqx/</id>
+        <link href="https://zx.xylj.tk/post/d82ZS9xqx/">
+        </link>
+        <updated>2020-08-09T13:05:19.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G.M.D.O.U舞社]]></title>
+        <id>https://zx.xylj.tk/post/BbVVnmOmb/</id>
+        <link href="https://zx.xylj.tk/post/BbVVnmOmb/">
+        </link>
+        <updated>2020-08-09T12:59:24.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[詠春社]]></title>
         <id>https://zx.xylj.tk/post/IxZAsod9S/</id>
@@ -67,19 +81,5 @@
         <link href="https://zx.xylj.tk/post/7pa1J_knd/">
         </link>
         <updated>2020-08-06T13:52:33.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[极摄影]]></title>
-        <id>https://zx.xylj.tk/post/9DyJw-t5c/</id>
-        <link href="https://zx.xylj.tk/post/9DyJw-t5c/">
-        </link>
-        <updated>2020-08-04T10:31:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学生会]]></title>
-        <id>https://zx.xylj.tk/post/CfjiUzku0/</id>
-        <link href="https://zx.xylj.tk/post/CfjiUzku0/">
-        </link>
-        <updated>2020-08-03T15:00:17.000Z</updated>
     </entry>
 </feed>
