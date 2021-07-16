@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zx.xylj.tk</id>
     <title>社团墙</title>
-    <updated>2021-07-16T12:41:58.925Z</updated>
+    <updated>2021-07-16T14:22:09.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zx.xylj.tk"/>
     <link rel="self" href="https://zx.xylj.tk/atom.xml"/>
-    <subtitle>2020年光明中学高中部社团招新页面&lt;br&gt;
+    <subtitle>2021年光明中学高中部社团宣传页面&lt;br&gt;
 网页由&lt;a href=&quot;https://zx.xylj.tk/post/VZuPoEupr/&quot; target=&quot;_blank&quot;&gt;PC卡基社&lt;/a&gt;社长创建维护&lt;br&gt;
 戳这里进入&lt;a href=&quot;https://xsh.xylj.tk&quot; target=&quot;_blank&quot;&gt;学生会&lt;/a&gt;网站</subtitle>
     <logo>https://zx.xylj.tk/images/avatar.png</logo>
     <icon>https://zx.xylj.tk/favicon.ico</icon>
     <rights>All rights reserved 2021, 社团墙</rights>
     <entry>
+        <title type="html"><![CDATA[D-fashion]]></title>
+        <id>https://zx.xylj.tk/post/D-fashion/</id>
+        <link href="https://zx.xylj.tk/post/D-fashion/">
+        </link>
+        <updated>2021-07-16T14:16:50.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[前言(新同学必看)]]></title>
         <id>https://zx.xylj.tk/post/d82ZS9xqx/</id>
         <link href="https://zx.xylj.tk/post/d82ZS9xqx/">
         </link>
         <updated>2021-07-16T12:10:07.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D-fashion]]></title>
-        <id>https://zx.xylj.tk/post/D-fashion/</id>
-        <link href="https://zx.xylj.tk/post/D-fashion/">
-        </link>
-        <updated>2020-08-09T11:21:20.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[G.M.D.O.U舞社]]></title>
